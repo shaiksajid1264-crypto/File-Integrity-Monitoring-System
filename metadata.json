@@ -1,0 +1,6 @@
+{
+  "name": "FIMGuard",
+  "description": "Real-time File Integrity Monitoring (FIM) and cryptographic baseline verification system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
